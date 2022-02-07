@@ -1,9 +1,10 @@
 .previewerContainer{
-    width: 100%;
+    width: 611px;
 }
 .preview{
     width: 100%;
     background-color: bisque;
     padding: 3rem;
     overflow: scroll;
+    color: #2a2a2a;
 }
